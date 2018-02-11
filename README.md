@@ -13,6 +13,6 @@
 	- [Food choices and preferences of college students](https://github.com/rpanasiuk/portfolio/blob/master/Data_preparation/Food_choice.ipynb): This dataset includes information on food choices, nutrition, preferences, childhood favorites, and other information from college students.
     <br>**The main goals**:
       - Data exploration/engineering/cleaning.
-      - Select and training a ML model.
+      - Select and train a ML model.
       - Parameters optimization.
       - Evaluation.
