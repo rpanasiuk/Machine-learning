@@ -1,5 +1,14 @@
 ## Machine learning
 
+- ### Projects:
+
+	- [Food choices and preferences of college students](https://github.com/rpanasiuk/portfolio/blob/master/Data_preparation/Food_choice.ipynb): This dataset includes information on food choices, nutrition, preferences, childhood favorites, and other information from college students.
+    <br>**The main goals**:
+      - Data exploration/some cleaning.
+      - Data analysis.
+      - Visualization.
+
+
 - ### Micro-projects:
 
 	- [Ridge and lasso regression](https://github.com/rpanasiuk/portfolio/blob/master/Ridge_lasso_regression/Ridge_lasso_regression.ipynb): Quick comparison of two powerful regression techniques and exploring impact of tuning parameters on final results.
@@ -10,8 +19,4 @@
   
 - ### In progress:
 
-	- [Food choices and preferences of college students](https://github.com/rpanasiuk/portfolio/blob/master/Data_preparation/Food_choice.ipynb): This dataset includes information on food choices, nutrition, preferences, childhood favorites, and other information from college students.
-    <br>**The main goals**:
-      - Data exploration/some cleaning.
-      - Data analysis.
-      - Visualization.
+	- placeholder
