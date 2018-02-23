@@ -19,7 +19,7 @@
   
 - ### In progress:
 
-	- [Mercedes-Benz Greener Manufacturing](https://github.com/rpanasiuk/portfolio/blob/master/Data_preparation/Food_choice.ipynb): Dataset represents different permutations of Mercedes-Benz car features.
+	- [Mercedes-Benz Greener Manufacturing](https://github.com/rpanasiuk/portfolio/blob/master/greener_manufacturing/Mercedes.ipynb): Dataset represents different permutations of Mercedes-Benz car features.
     <br>**The main goals**:
       - Data preparation/exploration.
       - Deeper insight into data.
