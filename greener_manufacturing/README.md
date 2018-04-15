@@ -4,7 +4,7 @@ Dataset represents different permutations of Mercedes-Benz car features.
 #### **The main goals**:
       - Data preparation/exploration.
       - Deeper insight into data.
-      - Build a model.<br>
+      - Build a model.
       
 - I am following a workflow based on kaggle's kernels implemented in R language.<br>
 - I add some of my own ideas during data preparation/insight process.<br>
