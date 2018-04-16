@@ -1,6 +1,10 @@
 # Mercedes-Benz Greener Manufacturing
 
 Dataset represents different permutations of Mercedes-Benz car features.
+
+#### **Changelog**:
+      - Playing with data, current condition is before refactorization
+      
 #### **The main goals**:
       - Data preparation/exploration.
       - Deeper insight into data.
